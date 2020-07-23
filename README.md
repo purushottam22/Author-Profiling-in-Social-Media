@@ -33,3 +33,6 @@ On Model - 2
 - Gender 66.24 
 - Age 22.22
 - Lang 80.28
+
+
+## You can access the research paper with name 'Gender Age and Dialect Recognition using Tweets in a Deep Learning Framework-Notebook for FIRE 2019'.
